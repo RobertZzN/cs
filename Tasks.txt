@@ -1,0 +1,17 @@
+1.Curatenie
+-Prima data facem un bacup in stadiul asta,in caz de orice sa ne intoarcem
+-Plugin-urile care nu sunt necesare le stergem
+-Fisierele html,ini,cfg care sunt in plus le stergem
+-Modele,sprite-uri si suntele care nu mai sunt necesare trb sterse
+-Dupa ce am terminat curatenie mai cream un backup,ca sa fie tot salvat as acum trb
+
+2.In partea 2 ne ocupam de plugin-uri
+-Trb sa bagam un vip,daca e il modific pe cel a lui renegade
+-Vip free pe sv,ca sa fie frumos
+-Cand se logheaza un jucator nou,ii oferim 5 case-uri/5key/50 scrap si 250$
+-Cei noi care au steam primesc dublu
+-Functia de drop,ala cu case-urile de pe celalalt server
+-Sa testam comenzile de ban/kick/slay/gag si restu
+-Adaugam un sistem de revive pt vip
+-Facem event uri random,gen runda de cutite,boss toti vs un t si mai vedem noi
+-Cream un event care da random case-uri/key si restul intre ora x si y
